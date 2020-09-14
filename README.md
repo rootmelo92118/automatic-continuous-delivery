@@ -1,3 +1,3 @@
 # automatic-continuous-delivery
 
-wait and see
+waiting and seeing
